@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/252293143/lab2.iml" filepath="$PROJECT_DIR$/.idea/modules/252293143/lab2.iml" group="lab2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/252293143/lab2_main.iml" filepath="$PROJECT_DIR$/.idea/modules/252293143/lab2_main.iml" group="lab2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/252293143/lab2_test.iml" filepath="$PROJECT_DIR$/.idea/modules/252293143/lab2_test.iml" group="lab2" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stp.iml" filepath="$PROJECT_DIR$/.idea/modules/stp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/stp_main.iml" group="stp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/stp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/stp_test.iml" group="stp" />
+    </modules>
+  </component>
+</project>
